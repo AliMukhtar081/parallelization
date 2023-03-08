@@ -330,12 +330,13 @@ int main1() {
     cout << "Execution Time for rows with static:" << total_s_n << endl;
     cout << "Execution Time for rows with dynamic:" << total_d_n << endl;
     cout << "Execution Time for rows with guided:" << total_g_n << endl;
-    cout << "Execution Time for 1 thread with static:" << total_s_1 << endl;
-    cout << "Execution Time for 1 thread with dynamic:" << total_d_1 << endl;
-    cout << "Execution Time for 1 thread with guided:" << total_g_1 << endl;
     cout << "Execution Time for random thread with static:" << total_s_r << endl;
     cout << "Execution Time for random thread with dynamic:" << total_d_r << endl;
     cout << "Execution Time for random thread with guided:" << total_g_r << endl;
+    cout << "Execution Time for 1 thread with static:" << total_s_1 << endl;
+    cout << "Execution Time for 1 thread with dynamic:" << total_d_1 << endl;
+    cout << "Execution Time for 1 thread with guided:" << total_g_1 << endl;
+   
 
     for (int i = 0; i < m1; i++) {
         delete[] a[i];
