@@ -1,0 +1,28 @@
+﻿  paralel multiplication.cpp
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(59,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(73,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(79,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(93,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(100,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(114,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(131,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(145,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(152,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(166,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(173,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(187,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(203,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(217,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(224,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(238,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(245,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(259,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(266,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(280,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(287,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(301,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(308,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\Parent Program\paralel multiplication.cpp(322,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  paralel_sort.cpp
+  Generating Code...
+  Parent Program.vcxproj -> G:\Study Material\sem6\Parallel _ Distributed Computing\Parent Program\x64\Debug\Parent Program.exe
